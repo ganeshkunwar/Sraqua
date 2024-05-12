@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "title": "Jyngye JY 800F",
+      "image": "https://i.imgur.com/MsaeRxy.jpg",
+      "category": "internal filter",
+      "price": 1300
+    },
+    {
+      "id": 14,
+      "title": "Spounge Filter XIJ-2835",
+      "image": "https://i.imgur.com/FrkjUPE.jpg",
+      "category": "spounge-filter",
+      "price": 200
+    },
+    {
+      "id": 19,
+      "title": "Six Seven",
+      "image": "https://i.imgur.com/om16SGb.png",
+      "category": "fish food",
+      "price": 85
+    },
+    {
+      "id": 20,
+      "title": "Cichlid Herbivore",
+      "image": "https://i.imgur.com/jAdrXeL.png",
+      "category": "fish food ",
+      "price": 350
+    },
+    {
+      "id": 38,
+      "title": "WP-2660",
+      "image": "https://i.imgur.com/rmkQZRx.jpg",
+      "category": "top filter",
+      "price": 1250
+    },
+    {
+      "id": 48,
+      "title": "Magnetic Glass Cleaner RS-12",
+      "image": "https://i.imgur.com/us8Ccp5.jpg",
+      "category": "cleaning tools",
+      "price": 0
+    },
+    {
+      "id": 53,
+      "title": "Activated Charchoal",
+      "image": "https://i.imgur.com/KYWuDFy.jpg",
+      "category": "filteration media",
+      "price": 0
+    },
+    {
+      "id": 55,
+      "title": "Steel Aquarium Heater xl-999(100w)",
+      "image": "https://i.imgur.com/8H8mALP.jpg",
+      "category": "heater",
+      "price": 1000
+    }
+  ]
