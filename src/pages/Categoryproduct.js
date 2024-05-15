@@ -31,7 +31,6 @@ const CategoryProducts = (props) => {
         }
         getProducts();
     }, []);
-
     const filteredData = products?.length ? products.filter((product) => product.category === pCategory) : null;
 
     return (
