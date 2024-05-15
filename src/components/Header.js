@@ -40,7 +40,7 @@ const Header = () => {
                         Menu<RiMenu3Line className='ml-2 text-2xl' />
                     </div>
                     <div className='max-sm:hidden'>
-                        +977 986-******
+                        +977 986-0000000
                     </div>
                 </div>
                 <div className="absolute right-1/2 top-0 translate-x-1/2 h-20 w-20 mt-10">
