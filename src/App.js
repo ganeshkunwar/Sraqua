@@ -1,8 +1,8 @@
 import React from 'react'
 import Layout from './Layout';
 import Home from './pages/Home';
-import ProductsPage from './pages/ProductsPage';
-import CategoryProducts from './pages/CategoryProducts';
+import ProductsPage from './pages/ProductPage';
+import CategoryProducts from './pages/CategoryProduct';
 import LoginPage from './pages/admin/LoginPage';
 import AdminPannel from './pages/admin/AdminPannel';
 import RequireAuth from './components/RequireAuth';
@@ -10,7 +10,7 @@ import PresistLogin from './components/PresistLogin';
 import { Routes, Route } from 'react-router-dom';
 import Dashboard from './components/adminComponents/Dashboard';
 import AddProducts from './components/adminComponents/AddProducts';
-import EditProduct from './components/adminComponents/EditProduct';
+import EditProduct from './components/adminComponents/EditProducts';
 
 const App = () => {
     return (

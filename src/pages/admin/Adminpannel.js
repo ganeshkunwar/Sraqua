@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import AddProducts from '../../components/adminComponents/AddProducts';
 import { Link, Outlet, useNavigate } from 'react-router-dom';
-import useLogout from '../../hooks/useLogout';
+import useLogout from './Hooks/useLogout';
 import { RxHamburgerMenu } from "react-icons/rx";
 import { MdDashboard, MdShoppingBag, MdLogout } from "react-icons/md";
 import { RxCross2 } from "react-icons/rx";

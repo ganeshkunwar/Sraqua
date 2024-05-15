@@ -1,5 +1,5 @@
 import {React, useEffect, useState} from 'react';
-import ProductsCard from '../components/ui/ProductsCard';
+import ProductsCard from './components/ui/ProductsCard';
 import { AiFillHome, AiFillMessage } from 'react-icons/ai';
 import { Link } from 'react-router-dom';
 import { useParams } from 'react-router-dom';

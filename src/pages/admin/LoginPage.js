@@ -4,7 +4,7 @@ import { FaEye, FaEyeSlash } from 'react-icons/fa';
 import { useNavigate } from 'react-router-dom';
 import logo from '../../assets/logo.jpg';
 import axios from '../../api/axios';
-import useAtuh from '../../hooks/useAuth';
+import useAtuh from '../../Hooks/useAuth';
 
 const LOGIN_URL = '/auth';
 

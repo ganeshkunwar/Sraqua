@@ -1,7 +1,7 @@
 import { Outlet } from "react-router-dom";
 import { useState, useEffect } from "react";
-import useRefresh from "../hooks/useRefresh";
-import useAtuh from "../hooks/useAuth";
+import useRefresh from './Hooks/useRefresh';
+import useAtuh from './Hooks/useAuth';
 
 const PresistLogin = () => {
     const [isLoading, setIsLoading] = useState(true);
