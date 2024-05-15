@@ -1,8 +1,8 @@
-import axios from "./api/axios";
-import useAtuh from "./useAuth";
+import axios from "../api/axios";
+import useAuth from "./useAuth";
 
 const useLogout = () => {
-    const {setAuth} = useAtuh();
+    const {setAuth} = useAuth();
 
     const logout = async () => {
         setAuth({});
