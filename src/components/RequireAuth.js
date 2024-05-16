@@ -1,8 +1,8 @@
 import { useLocation, Navigate, Outlet } from "react-router-dom";
-import useAtuh from "../hooks/useAuth";
+import useAuth from "../hooks/useAuth";
 
 const RequireAuth = () => {
-    const { auth } = useAtuh();
+    const { auth } = useAuth();
     const location = useLocation();
     return (
         auth?.user
